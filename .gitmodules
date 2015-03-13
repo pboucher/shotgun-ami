@@ -1,0 +1,3 @@
+[submodule "ShotgunAMIEngine.app/Contents/Resources/Python/python-api"]
+	path = ShotgunAMIEngine.app/Contents/Resources/Python/python-api
+	url = git@github.com:shotgunsoftware/python-api.git
